@@ -1,6 +1,6 @@
 # SecLog Analyzer
 
-#### Video Demo: <URL WILL BE ADDED>
+#### Video Demo: https://youtu.be/6JV-QvBUzhA
 
 #### Description:
 
